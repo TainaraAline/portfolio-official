@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 75%;
+}
+@media (max-width: 112.5em) {
+  html {
+    font-size: 62.5%;
+  }
+}
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+@media (max-width: 56.25em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+body {
+  background-color: #55c57a;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvYmFzZS9fYmFzZS5zY3NzIiwic3R5bGVzLmNvbXAuY3NzIiwiLi4vc2Fzcy9hYnN0cmFjdHMvX21peGlucy5zY3NzIiwiLi4vc2Fzcy9hYnN0cmFjdHMvX3ZhcmlhYmxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBOzs7RUFHRSxTQUFBO0VBQ0EsVUFBQTtFQUNBLG1CQUFBO0FDREY7O0FESUE7RUFDRSxjQUFBO0FDREY7QUNXSTtFRlhKO0lBSUksZ0JBQUE7RUNBRjtBQUNGO0FDQUk7RUZMSjtJQVFJLGlCQUFBO0VDQ0Y7QUFDRjtBQ1hJO0VGQ0o7SUFZSSxjQUFBO0VDRUY7QUFDRjs7QURDQTtFQUNFLHlCRzFCYztBRjRCaEIiLCJmaWxlIjoic3R5bGVzLnByZWZpeC5jc3MifQ== */
